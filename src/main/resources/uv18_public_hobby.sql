@@ -1,0 +1,3 @@
+INSERT INTO public.hobby (id, description, font_title, title) VALUES (1, 'Участие в спортивной жизни дома', 'fa-running', 'Спорт');
+INSERT INTO public.hobby (id, description, font_title, title) VALUES (2, 'Участие в культурно-массовых мероприятиях и помощь в их организации', 'fa-theater-masks', 'Культмасса');
+INSERT INTO public.hobby (id, description, font_title, title) VALUES (3, 'Организация безопасности жителей Деревни Универсиады', 'fa-shield-alt', 'ОСОБ');
